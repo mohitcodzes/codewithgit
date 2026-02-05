@@ -1,0 +1,7 @@
+marks = {
+"mohit": 85,
+"rohit":88,
+"mehul" :90,
+"rahul":100,   
+}
+print(marks,type(marks))
